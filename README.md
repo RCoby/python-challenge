@@ -4,7 +4,7 @@ This Python code reads in a budget data CSV file, calculates and prints financia
 
 -----
 
-## The financial metrics calculated and printed include:
+### The financial metrics calculated and printed include:
 
 + Total number of months included in the dataset
 + Net total amount of "Profit/Losses" over the entire period
