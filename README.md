@@ -6,11 +6,11 @@ This Python code reads in a budget data CSV file, calculates and prints financia
 
 ## The financial metrics calculated and printed include:
 
-Total number of months included in the dataset
-Net total amount of "Profit/Losses" over the entire period
-Changes in "Profit/Losses" over the entire period, and then the average of those changes
-Greatest increase in profits (date and amount) over the entire period
-Greatest decrease in profits (date and amount) over the entire period
++ Total number of months included in the dataset
++ Net total amount of "Profit/Losses" over the entire period
++ Changes in "Profit/Losses" over the entire period, and then the average of those changes
++ Greatest increase in profits (date and amount) over the entire period
++ Greatest decrease in profits (date and amount) over the entire period
 
 -----
 
