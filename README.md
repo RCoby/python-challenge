@@ -16,7 +16,22 @@ This Python code reads in a budget data CSV file, calculates and prints financia
 
 -----
 
-The results are printed to the console using the print() function, and also exported to a text file in the "analysis" folder using the built-in open() and write() functions.
+The script prints the results to the console and exports to a text file located in the "analysis" folder.
 
 
 ## #2 PyPoll
+
+This Python script reads in an election data file in CSV format and analyzes the election results. 
+
+-----
+
+### The analysis includes the following:
+
++ The total number of votes cast
++ A complete list of candidates who received votes
++ The percentage of votes each candidate won
++ The total number of votes each candidate won
++ The winner of the election based on popular vote
+
+-----
+The script prints the results to the console and exports them to a text file located in the "analysis" folder.
